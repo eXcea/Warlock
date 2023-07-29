@@ -1,0 +1,8 @@
+{
+    "load": [
+        "GUI-warlock.lua",
+        "affliction-retail.lua",
+        "demonology-retail.lua",
+        "destruction-retail.lua",
+    ]
+}
